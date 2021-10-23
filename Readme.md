@@ -4,8 +4,8 @@ This is a clone of very famous game flappy bird. I programmed this version of th
 
 ### Screenshots
 
-[Screenshot1](gallery/snapshots/snapshot1_homescreen.png)
-[Screenshot2](gallery/snapshots/snapshot2_Gameplay.png)
+[Screenshot1](https://github.com/priyanshu0171/Flappy-Bird-Game/blob/master/gallery/snapshots/snapshot1_homescreen.png)
+[Screenshot2](https://github.com/priyanshu0171/Flappy-Bird-Game/blob/master/gallery/snapshots/snapshot2_Gameplay.png)
 
 
 
